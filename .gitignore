@@ -266,3 +266,5 @@ Session.vim
 App/secrets.json
 
 App/appsettings.json
+
+Internprosjekt_frontend_docker_compose/yarn.lock
