@@ -1,0 +1,28 @@
+.product {
+    background-color: burlywood;
+    &.smartphones {
+        background-color: #f891ae;
+    }
+    &.skincare {
+        font-family: fantasy;
+        color: greenyellow;
+    }
+    img {
+        width: 100px;
+        vertical-align: middle;
+    }
+    .productInfo {
+        display: inline-block;
+        vertical-align: middle;
+        padding: 0 10px;
+        width: calc(100% - 120px);
+        h2 {
+            margin: 0;
+            font-size: 20px;
+        }
+        p {
+            margin: 0;
+            font-size: 14px;
+        }
+    }
+}
