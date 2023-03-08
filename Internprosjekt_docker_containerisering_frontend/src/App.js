@@ -8,7 +8,6 @@ function App() {
     const response = await fetch("https://dummyjson.com/products");
     const json = await response.json();
     setProductsData(json);
-    console.log(json);
   }
 
   function renderProducts(productsData) {
