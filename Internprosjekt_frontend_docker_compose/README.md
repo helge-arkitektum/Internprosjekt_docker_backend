@@ -1,10 +1,10 @@
 # Arbeidsøkt og oppgave i Internprosjekt_frontend_docker_compose
 
-Steg 1. Last ned kildekoden fra dette repoet.
+Steg 1. Last ned kildekoden fra dette repoet
 
-Steg 2. Kjør kommandoen: `yarn`.
+Steg 2. Kjør kommandoen: `yarn`
 
-Steg 3. Kjør kommandoen: `yarn start`.
+Steg 3. Kjør kommandoen: `yarn start`
 
 ![image](https://user-images.githubusercontent.com/36536861/223677363-1dfce88d-23c7-4efb-b8fc-2d4c1cddbfbf.png)
 ![image](https://user-images.githubusercontent.com/36536861/223677438-e05d05f5-a2a2-4c06-8206-4a45a41d5444.png)
