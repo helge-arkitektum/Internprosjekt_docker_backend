@@ -268,3 +268,5 @@ App/secrets.json
 App/appsettings.json
 
 Internprosjekt_frontend_docker_compose/yarn.lock
+
+Internprosjekt_docker_containerisering_frontend/.yarn/
