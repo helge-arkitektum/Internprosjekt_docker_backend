@@ -1,10 +1,7 @@
+import { classNameArrayToString } from "../../functions/guiHelpers";
 import style from "./Product.module.scss";
 
 function Product({ product }) {
-    function classNameArrayToString(classNameArray) {
-        return classNameArray.filter((className) => className).join(" ");
-    }
-
     return (
         <div className={classNameArrayToString([style.product, style[product.category]])}>
             <img src={product.thumbnail} alt={product.title} />
