@@ -8,7 +8,7 @@ function App() {
     });
 
   async function getProductsData() {
-    const response = await fetch("https://dummyjson.com/products");
+        const response = await fetch("https://dummyjson.com/products?limit=10");
     const json = await response.json();
     setProductsData(json);
   }
